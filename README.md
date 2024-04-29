@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raj
 - 👀 I’m interested in Developing Cool Websites
 - 🌱 I’m currently learning MERN stack
-- 📫 How to reach me via email at example@example.com.
+- 📫 How to reach me via email at rajsingh21625@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can mimic voices!
 
